@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anuja Gogate</h1>
+
 <h3 align="center">
 Forward-Deployed AI Engineer | AI Employees & Agent Systems | Backend & Platform Engineering
 </h3>
@@ -8,90 +9,80 @@ src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=manuanuja&label=Profile%20views&color=0e75b6&style=flat"
-    alt="manuanuja" />
+       alt="manuanuja" />
 </p>
 
----
+<hr/>
 
-### 👩‍💻 About Me
+<h3>👩‍💻 About Me</h3>
 
-- 🚀 Forward-Deployed AI Engineer with **6+ years of experience** building **production-grade AI employees, agent systems, and cloud-native backend platforms**
-- 🧠 Specialized in **LLM-powered decision systems**, **tool-calling agents**, **human-in-the-loop workflows**, and **multi-modal AI pipelines**
-- 🏗️ Strong focus on **system architecture, reliability, observability, and security** for enterprise AI platforms
-- 🌍 Based in the USA | Open to **AI Platform / Applied AI / Backend roles**
+<ul>
+  <li>🚀 Forward-Deployed AI Engineer with <strong>6+ years of experience</strong> building <strong>production-grade AI employees, agent systems, and cloud-native backend platforms</strong></li>
+  <li>🧠 Specialized in <strong>LLM-powered decision systems</strong>, <strong>tool-calling agents</strong>, <strong>human-in-the-loop (HITL) workflows</strong>, and <strong>multi-modal AI pipelines</strong></li>
+  <li>🏗️ Strong focus on <strong>system architecture, reliability, observability, and security</strong> for enterprise AI platforms</li>
+  <li>🌍 Based in the USA | Open to <strong>AI Platform / Applied AI / Backend roles</strong></li>
+</ul>
 
----
+<hr/>
 
-### 🔗 Connect with Me
+<h3>🔗 Connect with Me</h3>
 <p align="left">
   <a href="https://linkedin.com/in/anuja-gogate" target="_blank">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="anuja-gogate" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         height="30" width="40"/>
   </a>
 </p>
 
----
+<hr/>
 
-### 🧠 AI & Agent Systems
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="40" height="40"/>
-</p>
-
-- Tool-Calling & Function-Oriented Agents  
-- Human-in-the-Loop (HITL) AI Workflows  
-- Multi-Modal AI Pipelines (Document + Voice + APIs)  
-- Model Evaluation, Auditing & Error Taxonomies  
-
----
-
-### ⚙️ Backend, Cloud & Platform Engineering
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40"/>
-</p>
-
-- Microservices Architecture (FastAPI / Flask)  
-- Async Task Orchestration (Celery)  
-- Event-Driven Systems (Kafka, RabbitMQ)  
-- IAM & Security (OAuth2/JWT, Keycloak)  
-- Observability & Monitoring (Prometheus, Sentry)  
-
----
-
-### 🧪 Testing & Reliability
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-</p>
-
-- API & Integration Testing  
-- Load & Performance Testing (Locust)  
-- Reliability & Failure Analysis  
-
----
-
-### 📊 GitHub Stats
-<p>
-  <img align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=manuanuja&show_icons=true&locale=en&layout=compact"
-    alt="manuanuja" />
-</p>
+<h2>🧠 AI & Agent Systems</h2>
 
 <p>
-  <img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=manuanuja&show_icons=true&locale=en"
-    alt="manuanuja" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="44" height="44"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="44" height="44"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="44" height="44"/>
 </p>
 
+<ul>
+  <li><strong>Tool-Calling & Function-Oriented Agents</strong></li>
+  <li><strong>Human-in-the-Loop (HITL) AI Workflows</strong></li>
+  <li><strong>Multi-Modal AI Pipelines</strong> (Document + Voice + APIs)</li>
+  <li><strong>Model Evaluation, Auditing & Error Taxonomies</strong></li>
+</ul>
+
+<hr/>
+
+<h2>⚙️ Backend, Cloud & Platform Engineering</h2>
+
 <p>
-  <img align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=manuanuja"
-    alt="manuanuja" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="44" height="44"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="44" height="44"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="44" height="44"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="44" height="44"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="44" height="44"/>
 </p>
+
+<ul>
+  <li><strong>Microservices Architecture</strong> (FastAPI / Flask)</li>
+  <li><strong>Async Task Orchestration</strong> (Celery)</li>
+  <li><strong>Event-Driven Systems</strong> (Kafka, RabbitMQ)</li>
+  <li><strong>IAM & Security</strong> (OAuth2/JWT, Keycloak)</li>
+  <li><strong>Observability & Monitoring</strong> (Prometheus, Sentry)</li>
+</ul>
+
+<hr/>
+
+<h2>🧪 Testing & Reliability</h2>
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" width="44" height="44"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="44" height="44"/>
+</p>
+
+<ul>
+  <li>API & Integration Testing</li>
+  <li>Load & Performance Testing (Locust)</li>
+  <li>Reliability, Failure Analysis & Validation</li>
+</ul>
+
+<hr/>

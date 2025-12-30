@@ -31,6 +31,10 @@ src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
          height="30" width="40"/>
   </a>
+  <a href="https://github.com/manuanuja" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+         height="30" width="40"/>
+  </a>
 </p>
 
 <hr/>
@@ -40,6 +44,7 @@ src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif">
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="44" height="44"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="44" height="44"/>
+  <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" width="44" height="44"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="44" height="44"/>
 </p>
 
